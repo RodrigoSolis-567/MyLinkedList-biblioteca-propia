@@ -1,6 +1,6 @@
 Este es mi primera libreria que creo, no es perfecta ni mucho menos, pero por algo se empieza, ni siquiera la subi a pypí u otro lugar de froma online por falta de tiempo
 
-# FlexLinkList
+# MyLinkedList
 
 Una estructura de datos en Python que combina una lista posicional basada en índices con una red de nodos multilazados.
 
@@ -15,7 +15,7 @@ Una estructura de datos en Python que combina una lista posicional basada en ín
 ## Cómo llamarlo
 para llamarlo debes escribir en la parte superiro de tu codigo els siguiente Script
 
-    from MyLinkedList import FlexLinkList
+    from MyLinkedList import MyLinkedList
 
 ## Funciones de Métodos
 

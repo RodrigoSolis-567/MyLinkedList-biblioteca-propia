@@ -36,7 +36,7 @@ class _LinkIndexer:
         return secuencia[index]
 
 
-class FlexLinkList:
+class MyLinkedList:
     def __init__(self):
         # La lista ahora se rige puramente por un arreglo posicional interno
         self._nodos = []
