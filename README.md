@@ -1,4 +1,4 @@
-Este es mi primera libreria que creo, no es perfecta ni mucho menos, pero por algo se empieza, ni siquiera la subi a pypí u otro lugar de froma online por falta de tiempo
+Este es mi primera libreria que creo, no es perfecta ni mucho menos, pero por algo se empieza, ni siquiera la subi a pypí u otro lugar de forma online por falta de tiempo
 
 # MyLinkedList
 
