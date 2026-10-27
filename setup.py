@@ -7,6 +7,6 @@ setup(
     description="Metodos que ayudan a la optimizacion de procesos en listas enlazadas flexibles",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/RodrigoSolis-567/myLinkedList-biblioteca-propia.git",
+    url="https://github.com/RodrigoSolis-567/MyLinkedList-biblioteca-propia.git",
     author="Rodrigo_Solis",
 )
