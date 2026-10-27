@@ -6,7 +6,7 @@ Una estructura de datos en Python que combina una lista posicional basada en ín
 
 ## Cómo instalarlo
 
-* Coloca el archivo `MyLinkedList.py` junto con un archivo `setup.py` en la carpeta de tu proyecto.
+* Coloca el archivo `MyLinkedList.py` junto con un archivo `setup.py` en la carpeta de tu proyecto o en una       carpeta separada.
 * Abre la terminal en dicha carpeta y ejecuta el comando de instalación en modo desarrollador dentro
   de la terminal del IDE:
 
